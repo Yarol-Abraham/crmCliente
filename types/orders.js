@@ -1,0 +1,8 @@
+export const GET_ALL_ORDERS = 'GET_ALL_ORDERS'; 
+export const NEW_ORDER = 'NEW_ORDER'; 
+export const ERROR_ORDER = 'ERROR_ORDER';
+export const SELECT_CLIENT = 'SELECT_CLIENT';
+export const SELECT_PRODUCT = 'SELECT_PRODUCT';
+export const DATA_PAYMENT =  'DATA_PAYMENT';
+export const CALCULATE_TOTAL = 'CALCULATE_TOTAL';
+export const SEARCH_ORDERS = 'SEARCH_ORDERS';
